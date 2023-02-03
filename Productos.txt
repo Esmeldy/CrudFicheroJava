@@ -1,0 +1,36 @@
+1
+Tornillo
+700
+Tornillo pequeño
+2
+Tuerca
+69
+Tuerca para tornillo pequeño
+3
+Clavo
+100
+Clavo de cabeza plana
+4
+Alambre
+300
+Rollo de alambre
+5
+Tacos
+600
+Tacos para cualquier tipo de pared
+6
+Tornillo
+100
+Tornillo para techo
+7
+Tuerca hexagonal
+6
+Tuerca hexagonal de acero
+8
+Tacos
+20
+Tacos porcelana
+9
+Tornillos de pared
+10
+Tornillos para instalar antenas parabólicas
